@@ -35,4 +35,12 @@ TABLES:
 	product_name
 	category
 	unit_price
+![image alt](https://github.com/nicoleumutoni5-crypto/PSQL_window-function-and-joins--24925-UMUTONI/blob/main/SNIPE1.png)
+•	sales:
+	sale_id(pK)
+	customer_id
+	product_id
+	sale_date
+	quantity
+	amount
 ![image alt](
