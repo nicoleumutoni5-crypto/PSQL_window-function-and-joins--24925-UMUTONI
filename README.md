@@ -14,3 +14,19 @@ Provide analytical insights that help:
 •	Identify top performing product
 •	Track sales trends over time
 •	Customer quartile segmentation
+
+#STEP 2: SUCCESS CRITERIA
+1.	Identify top 5 products per region using RANK ()
+2.	Calculate running monthly sales totals using SUM ()
+3.	Analyze monthly sales growth using LAG ()
+4.	Segment customers into quartiles based on total spending using NTILE (4)
+5.	Compute a 3-month moving average of sales using AVG () OVER ()
+
+#STEP 3: DATABASE SCHEMA DESIGN
+TABLES:
+•	Customer: 
+	customer_id (pk)
+	Customer_name
+	Region
+	email
+
