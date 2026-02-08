@@ -46,7 +46,13 @@ TABLES:
 ![image alt](https://github.com/nicoleumutoni5-crypto/PSQL_window-function-and-joins--24925-UMUTONI/blob/main/SNIPE%203.png)
 # ER DIAGRAM
 ![image alt](https://github.com/nicoleumutoni5-crypto/PSQL_window-function-and-joins--24925-UMUTONI/blob/main/Screenshot%202026-02-08%20180225.png)
+
 #Step 4: SQL JOINS implementation
 1.	INNER JOIN
 Retrieve transactions with valid customers and products
+![image alt](https://github.com/nicoleumutoni5-crypto/PSQL_window-function-and-joins--24925-UMUTONI/blob/main/snipe%2013%20inner%20join.png)
+Interpretation: Shows only valid sales records where both customer and product exist.
+
+2.	 LEFT JOIN
+Identify customers who have never made a transaction
 ![image alt](
