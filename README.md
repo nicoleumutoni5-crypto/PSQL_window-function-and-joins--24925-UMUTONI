@@ -76,5 +76,8 @@ Interpretation:Ranks products based on total revenue generated.
 Interpretation: Shows cumulative sales growth over time.
 3. Navigation Functions
 Monthly  comparison
- ![image alt]( 	
-
+ ![image alt](https://github.com/nicoleumutoni5-crypto/PSQL_window-function-and-joins--24925-UMUTONI/blob/main/snipe%2012%20%20navigation%20function.png) 	
+Interpretation:Highlights increases or decreases in sales between periods.
+4.Distribution Functions
+Customer quartile segmentation
+![image alt](
