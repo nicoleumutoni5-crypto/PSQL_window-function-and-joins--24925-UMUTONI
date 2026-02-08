@@ -43,4 +43,6 @@ TABLES:
 	sale_date
 	quantity
 	amount
+![image alt](https://github.com/nicoleumutoni5-crypto/PSQL_window-function-and-joins--24925-UMUTONI/blob/main/SNIPE%203.png)
+# ER DIAGRAM
 ![image alt](
