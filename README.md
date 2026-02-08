@@ -15,14 +15,14 @@ Provide analytical insights that help:
 •	Track sales trends over time
 •	Customer quartile segmentation
 
-#STEP 2: SUCCESS CRITERIA
+# STEP 2: SUCCESS CRITERIA
 1.	Identify top 5 products per region using RANK ()
 2.	Calculate running monthly sales totals using SUM ()
 3.	Analyze monthly sales growth using LAG ()
 4.	Segment customers into quartiles based on total spending using NTILE (4)
 5.	Compute a 3-month moving average of sales using AVG () OVER ()
 
-#STEP 3: DATABASE SCHEMA DESIGN
+# STEP 3: DATABASE SCHEMA DESIGN
 TABLES:
 •	Customer: 
 	customer_id (pk)
@@ -47,7 +47,7 @@ TABLES:
 # ER DIAGRAM
 ![image alt](https://github.com/nicoleumutoni5-crypto/PSQL_window-function-and-joins--24925-UMUTONI/blob/main/Screenshot%202026-02-08%20180225.png)
 
-#Step 4: SQL JOINS implementation
+# Step 4: SQL JOINS implementation
 1.	INNER JOIN
 Retrieve transactions with valid customers and products
 ![image alt](https://github.com/nicoleumutoni5-crypto/PSQL_window-function-and-joins--24925-UMUTONI/blob/main/snipe%2013%20inner%20join.png)
@@ -65,7 +65,7 @@ Compare customers within the same region
 ![image alt](https://github.com/nicoleumutoni5-crypto/PSQL_window-function-and-joins--24925-UMUTONI/blob/main/snipe%208%20self%20join.png)
 Business Interpretation: Allows comparison of customers operating in the same market region.
 
-#STEP 5: Window Functions
+# STEP 5: Window Functions
 1.	Ranking Functions
     Top products by revenue
 ![image alt](https://github.com/nicoleumutoni5-crypto/PSQL_window-function-and-joins--24925-UMUTONI/blob/main/snipe%2010%20%20ranking%20functions.png)
@@ -80,4 +80,19 @@ Monthly  comparison
 Interpretation:Highlights increases or decreases in sales between periods.
 4.Distribution Functions
 Customer quartile segmentation
-![image alt](
+![image alt](https://github.com/nicoleumutoni5-crypto/PSQL_window-function-and-joins--24925-UMUTONI/blob/main/snipe%2013%20customer%20quartile%20function.png)
+
+# STEP 6: RESULT ANALYSIS
+
+# Descriptive
+Sales are concentrated in a small number of products and high-value customers.
+# Diagnostic
+Revenue differences are driven by customer spending patterns and regional demand.
+# Prescriptive
+Focus marketing on top quartile customers and promote underperforming products
+
+# STEP 7: References
+	Oracle SQL Documentation
+	MYsql Window Functions Guide
+	SQL Tutorial (W3Schools)
+
