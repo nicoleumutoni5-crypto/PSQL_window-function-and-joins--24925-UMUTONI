@@ -68,5 +68,9 @@ Business Interpretation: Allows comparison of customers operating in the same ma
 #STEP 5: Window Functions
 1.	Ranking Functions
     Top products by revenue
-![image alt](
+![image alt](https://github.com/nicoleumutoni5-crypto/PSQL_window-function-and-joins--24925-UMUTONI/blob/main/snipe%2010%20%20ranking%20functions.png)
+Interpretation:Ranks products based on total revenue generated.
+2.	Aggregate Window Functions
+   Running monthly sales total
+  	![image alt](
 
