@@ -52,7 +52,10 @@ TABLES:
 Retrieve transactions with valid customers and products
 ![image alt](https://github.com/nicoleumutoni5-crypto/PSQL_window-function-and-joins--24925-UMUTONI/blob/main/snipe%2013%20inner%20join.png)
 Interpretation: Shows only valid sales records where both customer and product exist.
-
 2.	 LEFT JOIN
 Identify customers who have never made a transaction
+![image alt](https://github.com/nicoleumutoni5-crypto/PSQL_window-function-and-joins--24925-UMUTONI/blob/main/SNIPE%206%20LEFT%20JOIN.png)
+Interpretation: Helps identify inactive customers for re-engagement campaigns.
+3.	RIGHT JOIN
+Detect products with no sales activity
 ![image alt](
