@@ -58,4 +58,9 @@ Identify customers who have never made a transaction
 Interpretation: Helps identify inactive customers for re-engagement campaigns.
 3.	RIGHT JOIN
 Detect products with no sales activity
+![image alt](https://github.com/nicoleumutoni5-crypto/PSQL_window-function-and-joins--24925-UMUTONI/blob/main/SNIPE%207%20RIGHT%20JOIN.png)
+Business Interpretation: Identifies products that may need promotion or discontinuation.
+4.	SELF JOIN
+Compare customers within the same region
 ![image alt](
+
