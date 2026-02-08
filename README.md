@@ -29,4 +29,10 @@ TABLES:
 	Customer_name
 	Region
 	email
-![image alt](link)
+![image alt](https://github.com/nicoleumutoni5-crypto/PSQL_window-function-and-joins--24925-UMUTONI/blob/main/snipe%202.png)
+•	products:
+	product_id (pk)
+	product_name
+	category
+	unit_price
+![image alt](
