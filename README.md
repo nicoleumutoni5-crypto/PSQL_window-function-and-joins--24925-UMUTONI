@@ -62,5 +62,11 @@ Detect products with no sales activity
 Business Interpretation: Identifies products that may need promotion or discontinuation.
 4.	SELF JOIN
 Compare customers within the same region
+![image alt](https://github.com/nicoleumutoni5-crypto/PSQL_window-function-and-joins--24925-UMUTONI/blob/main/snipe%208%20self%20join.png)
+Business Interpretation: Allows comparison of customers operating in the same market region.
+
+#STEP 5: Window Functions
+1.	Ranking Functions
+    Top products by revenue
 ![image alt](
 
