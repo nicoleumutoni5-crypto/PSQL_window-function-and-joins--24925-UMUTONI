@@ -72,5 +72,9 @@ Business Interpretation: Allows comparison of customers operating in the same ma
 Interpretation:Ranks products based on total revenue generated.
 2.	Aggregate Window Functions
    Running monthly sales total
-  	![image alt](
+  	![image alt](https://github.com/nicoleumutoni5-crypto/PSQL_window-function-and-joins--24925-UMUTONI/blob/main/snipe%2011%20aggregate%20function.png)
+Interpretation: Shows cumulative sales growth over time.
+3. Navigation Functions
+Monthly  comparison
+ ![image alt]( 	
 
